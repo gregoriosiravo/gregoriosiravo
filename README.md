@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sirap95, my name is Gregorio.
-- 🏠 I'm based in Rome.
+- 🏠 I'm based in Rome but I'm open to new opportunity in other countries.
 - 👀 I’m interested in programming code, for example Laravel, Dart, Java
 - 🌱 I’m currently increasing my knowledge in Laravel and Flutter
 - 💞️ I’m looking to collaborate on Mobile Application Projects and Laravel Project
