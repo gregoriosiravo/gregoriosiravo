@@ -3,7 +3,7 @@ Hi everyone, my name is Gregorio Siravo
 
 
 ***RHCEAD - Red Hat Certified Enterprice Application Developer.*** <br/>
-Currently working with Accenture as an Application Development Analyst. <br/>
+Currently working with Capgemini as an Application Developer. <br/>
 Willing to work in a ***Mobile development project.***
 
 - 🏠 I'm based in Rome but I'm open to new opportunity in other countries.
