@@ -7,9 +7,9 @@ Currently working with Capgemini as an Frontend Developer. <br/>
 Willing to work in a ***Mobile development project.***
 
 - 🏠 I'm based in Rome but I'm open to new opportunity in other countries.
-- 👀 I’m interested in programming code, for example Laravel, Dart, Java
-- 🌱 I’m currently increasing my knowledge in Laravel and Flutter
-- 💞️ I’m looking to collaborate on Mobile Application Projects and Laravel Project
+- 👀 I’m interested in programming code, for example Laravel, Dart, Vue.js, React
+- 🌱 I’m currently increasing my knowledge in Vue.js
+- 💞️ I’m looking to collaborate on Mobile Application Projects and Vue Projects
 - 📫 How to reach me: on my [Linkedin Profile](https://www.linkedin.com/in/gregorio-siravo-a58660187/)
 
 ### Skills
