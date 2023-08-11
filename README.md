@@ -3,7 +3,7 @@ Hi everyone, my name is Gregorio Siravo
 
 
 ***RHCEAD - Red Hat Certified Enterprice Application Developer.*** <br/>
-Currently working with Capgemini as an Frontend Developer. <br/>
+Currently working with Capgemini as Frontend Developer. <br/>
 Willing to work in a ***Mobile development project.***
 
 - 🏠 I'm based in Rome but I'm open to new opportunity in other countries.
