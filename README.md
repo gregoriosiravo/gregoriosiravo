@@ -8,9 +8,8 @@ Willing to work in a ***Mobile development project.***
 
 - 🏠 I'm based in Milan but I'm open to new opportunity in other countries.
 - 👀 I’m interested in programming code, for example Laravel, Dart, Vue.js, React
-- 🌱 I’m currently increasing my knowledge in Vue.js
 - 💞️ I’m looking to collaborate on Mobile Application Projects
-- 📫 How to reach me: on my [Linkedin Profile](https://www.linkedin.com/in/gregorio-siravo-a58660187/)
+- 📫 How to reach me: on my [Linkedin Profile](https://www.linkedin.com/in/gregorio-siravo-a58660187/) or my [Website](https://gregrunscode.com)
 
 ### Skills
 
@@ -34,13 +33,13 @@ Willing to work in a ***Mobile development project.***
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/gregoriosiravo"><img src="https://github-readme-stats.vercel.app/api?username=sirap95&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sirap95's GitHub stats" /></a>
+<a href="http://www.github.com/gregoriosiravo"><img src="https://github-readme-stats.vercel.app/api?username=gregoriosiravo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gregoriosiravo's GitHub stats" /></a>
 
-<a href="https://github.com/gregoriosiravo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirap95&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%25Languages" alt="Top Languages" /></a>
+<a href="https://github.com/gregoriosiravo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoriosiravo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%25Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/gregoriosiravo/basic-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sirap95&repo=basic-blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/gregoriosiravo/basic-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregoriosiravo&repo=basic-blog&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 <div width="100%" align="center"><a href="https://github.com/gregoriosiravo/currency-tracker-bot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gregoriosiravo&repo=currency-tracker-bot&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
