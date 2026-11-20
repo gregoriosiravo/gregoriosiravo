@@ -3,13 +3,13 @@ Hi everyone, my name is Gregorio Siravo
 
 
 ***RHCEAD - Red Hat Certified Enterprice Application Developer.*** <br/>
-Currently working with Capgemini as Frontend Developer. <br/>
+Currently working with Vivaticket as a Senior Software Engineer. <br/>
 Willing to work in a ***Mobile development project.***
 
 - 🏠 I'm based in Milan but I'm open to new opportunity in other countries.
-- 👀 I’m interested in programming code, for example Laravel, Dart, Vue.js, React
+- 👀 I’m interested in programming code, for example Laravel, Vue.js, React
 - 💞️ I’m looking to collaborate on Mobile Application Projects
-- 📫 How to reach me: on my [Linkedin Profile](https://www.linkedin.com/in/gregorio-siravo-a58660187/) or my [Website](https://gregrunscode.com)
+- 📫 How to reach me: on my [Linkedin Profile](https://www.linkedin.com/in/gregorio-siravo-a58660187/) or my [Website](https://gregoriosiravo.dev)
 
 ### Skills
 
@@ -26,7 +26,7 @@ Willing to work in a ***Mobile development project.***
 
 ### Socials
 
-<p align="left"> <a href="https://github.com/sirap95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gregorio-siravo-a58660187/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gregoriosiravo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<p align="left"> <a href="https://github.com/gregoriosiravo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/gregorio-siravo-a58660187/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/gregoriosiravo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 
 
 ### Badges
