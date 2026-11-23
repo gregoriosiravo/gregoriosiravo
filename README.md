@@ -1,4 +1,4 @@
-Hi everyone, my name is Gregorio Siravo
+Hi everyone, my name is Gregorio
 ====================================
 
 
